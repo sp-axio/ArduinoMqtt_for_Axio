@@ -1,17 +1,17 @@
 {
-	"name": "ArduinoMqtt",
-	"version": "1.5.0",
-	"keywords": "mqtt, m2m, iot",
+	"name": "ArduinoMqtt_for_Axio",
+	"version": "1.0.0",
+	"keywords": "mqtt, m2m, iot, axio, tls",
 	"description": "The library bundles synchronous C++ MQTT Client implementation with C/C++ Eclipse Paho MQTTPacket library. It supports MQTT 3.1 and 3.1.1; QoS 0, 1 and 2.",
 	"authors": {
-		"name": "Oleg Kovalenko",
-		"email": "monstrenyatko@gmail.com",
-		"url": "https://github.com/monstrenyatko",
+		"name": "Security Platform",
+		"email": "tech@securityplatform.co.kr",
+		"url": "https://github.com/sp-axio",
 		"maintainer": true
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/monstrenyatko/ArduinoMqtt.git"
+		"url": "https://github.com/sp-axio/ArduinoMqtt_for_Axio.git" 
 	},
 	"export": {
 		"exclude": [
