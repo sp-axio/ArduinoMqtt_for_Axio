@@ -1,3 +1,9 @@
+Axio-Builder by SecurityPlatform
+================================
+We modified the code so that Axio-builder can use MQTT using ESP8266 by forking ArduinoMQTT project.
+Refer to following page for more info about Axio-Builder.
+[Axio Blog by Security Platform](https://sp-axio.github.io/)
+
 ArduinoMqtt
 ===========
 
