@@ -19,7 +19,8 @@
 #include <stdarg.h>
 /* Internal Includes */
 #include "MQTTPacket/MQTTPacket.h"
-#include "ESP8266WiFi.h"
+//#include "ESP8266WiFi.h"
+#include "ESP8266Mbedtls.h"
 
 
 #define MQTT_LOG_SIZE_MAX								128

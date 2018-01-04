@@ -18,9 +18,8 @@
 #define MQTT_LOG_ENABLED 1
 // Include library
 #include <MqttClient.h>
+#include "ESP8266Mbedtls.h"
 
-
-//ESP8266Client client;
 ESP8266Mbedtls client;
 
 //////////////////////////////
